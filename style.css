@@ -1,19 +1,19 @@
 header {
-background-color: green;
+background-color:deeppink;
 color: white;
 padding: 20px;
 text-align: center;
 margin: 0 1.5cm
 }
 section {
-    margin: 0 1.5cm;
-    font-size: 16px;
-    color: black;
-    text-align: justify
+background-color:deeppink;
+margin: 0 1.5cm;
+ font-size: 16px;
+ color: coral;
 }
 footer {
-    background-color: blue;
-    color: white;
+    background-color:deeppink
+    color:black
     padding: 10px;
     text-align: center;
     margin: 0 1.5cm;
